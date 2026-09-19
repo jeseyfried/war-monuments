@@ -2,23 +2,23 @@
 title: WWI Monuments
 author: Jonathan Seyfried
 layout: scrollstory
-date: 2025-07-21
-thumbnail: images/forest.jpg
-summary: The kitchen sink of demos. This essay showcases every ScrollStory component — background switching, sticky backgrounds, side-scroll sections, juxtapose comparisons, and more.
-header-image: images/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg
-header-title: The Forest
-header-eyebrow: ScrollStory Demo
+date: 2026-09-19
+thumbnail: images/hildesheimer-crop.jpg
+summary: A website demonstrating the use of generative AI for a study of WWI memorials
+header-image: images/hildesheimer-crop.jpg
+header-title: War Monuments Perform Gender
+header-eyebrow: Gender, War, and Memory
 header-divider: ✦ ✦ ✦
-header-subtitle: every component, one essay
-header-caption: Photo by <a href="https://unsplash.com/@sebastian_unrau">Sebastian Unrau</a> on <a href="https://unsplash.com">Unsplash</a>
+header-subtitle: Using Generative AI to Analyze Big Data on War Monuments
+header-caption: Photo by Björn Bornhöft on <a href="https://commons.wikimedia.org/wiki/File:Kriegerdenkmal_am_Hildesheimer_Galgenberg_frontal.JPG">Wikimedia Commons</a>
 header-position: 0px
 toc-section: piano
 autoscroll: true
 
-geo: [44.600000, -110.500000]
-placename: Yellowstone National Park
+geo: 
+placename: 
 tags:
-  - music
+  - Germany
 ---
 
 # Bodies of the Fallen: Masculinity in German WWI Memorials of the 1920s and an Imaginary Monument Design
