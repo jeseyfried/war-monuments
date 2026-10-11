@@ -87,6 +87,13 @@ Put together, the figure is less a record of how the war changed masculinity tha
 
 ## The STL file
 
+{% include images/figure.html
+  image-position="center"
+  image-width="100%"
+  caption="Picture of the 3D printed model. Removing support material led to the breaking of the sword."
+  image-path="images/england-sentinel_memorial_preview.png"
+%}
+
 The file sentinel\_memorial.stl is a single watertight solid, 80 × 80 × 159 mm, in binary STL, ready to slice without repair.
 
 | Property | Value |

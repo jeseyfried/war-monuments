@@ -3,14 +3,14 @@ title: German WWI Monuments
 author: Jonathan Seyfried
 layout: scrollstory
 date: 2026-09-19
-thumbnail: images/kriegerdenkmal-hofgarten-muenchen.jpg
-summary: German WWI memorials
-header-image: images/kriegerdenkmal-hofgarten-muenchen.jpg
-header-title: German WWI War Monuments Perform Gender
+thumbnail: images/hildesheimer-crop.jpg
+summary: A website demonstrating the use of generative AI for a study of WWI memorials
+header-image: images/hildesheimer-crop.jpg
+header-title: War Monuments Perform Gender
 header-eyebrow: Gender, War, and Memory
 header-divider: ✦ ✦ ✦
 header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
-header-caption: Photo by Rufus46 on <a href="https://en.wikipedia.org/wiki/File:Kriegerdenkmal_Hofgarten_Muenchen-1.jpg">Wikimedia Commons</a>
+header-caption: Photo by Björn Bornhöft on <a href="https://commons.wikimedia.org/wiki/File:Kriegerdenkmal_am_Hildesheimer_Galgenberg_frontal.JPG">Wikimedia Commons</a>
 header-position: 0px
 toc-section: piano
 autoscroll: true
