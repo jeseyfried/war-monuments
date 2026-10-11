@@ -26,7 +26,7 @@ tags:
 This website demonstrates how generative AI can bring new insights into the study of gender in WWI monuments. 
 
 ## Literature Review from ChatGPT
-*What follows is a prompt given to ChatGPT version on October 11, 2026, and its response*
+*What follows is a prompt given to ChatGPT version GPT-6 Intelligent UI on October 11, 2026, and its response*
 
 > I have a research question about composite objects. Specifically, I am making composites of thousands of WWI memorials and I want to understand what scholars have written about the meaning of this type of object. I want to become familiar with the scholarship that can provide context for my project. Please provide me an annotated bibliography on hyperobjects and the hyper-real. Please also include any other studies that you find to be closely relevant. For every entry, include a DOI or ISBN. At minimum there should be at least 20 scholarly works and no more than 60 total.
 
