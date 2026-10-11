@@ -4,9 +4,9 @@ author: Jonathan Seyfried
 layout: scrollstory
 date: 2026-09-19
 thumbnail: images/hildesheimer-crop.jpg
-summary: A website demonstrating the use of generative AI for a study of WWI memorials
+summary: German WWI memorials
 header-image: images/hildesheimer-crop.jpg
-header-title: War Monuments Perform Gender
+header-title: German War Monuments Perform Gender
 header-eyebrow: Gender, War, and Memory
 header-divider: ✦ ✦ ✦
 header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
