@@ -3,14 +3,14 @@ title: English WWI Monuments
 author: Jonathan Seyfried
 layout: scrollstory
 date: 2026-09-19
-thumbnail: images/misty-forest.jpg
+thumbnail: images/england-header.png
 summary: English WWI memorials
-header-image: images/misty-forest.jpg
+header-image: images/england-header.png
 header-title: English WWI War Monuments Perform Gender
 header-eyebrow: Gender, War, and Memory
 header-divider: ✦ ✦ ✦
 header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
-header-caption: Photo by Rufus46 on <a href="https://en.wikipedia.org/wiki/File:Kriegerdenkmal_Hofgarten_Muenchen-1.jpg">Wikimedia Commons</a>
+header-caption: Photo by Donald Judge on <a href="https://commons.wikimedia.org/wiki/File:13.4.16_2_Bradford_06_(26144006820).jpg">Wikimedia Commons</a>
 header-position: 0px
 toc-section: piano
 autoscroll: true
