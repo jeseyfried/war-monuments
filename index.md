@@ -7,11 +7,11 @@ thumbnail: images/port-sunlight-memorial.png
 summary: WWI monuments perform gender
 header-image: images/port-sunlight-memorial.png
 header-title: WWI Monuments Perform Gender
-header-eyebrow: Gender, War, and Memory
+header-eyebrow: 
 header-divider: ✦ ✦ ✦
-header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
+header-subtitle: AI Generated Composite Models Compared to Gender Nonconforming Outliers
 header-caption: WWI memorial at Port Sunlight. Photo by Rodhullandemu on <a href="https://commons.wikimedia.org/wiki/File:Port_Sunlight_War_Memorial_2020.jpg">Wikimedia Commons</a>
-header-position: 0px
+header-position: 10px
 toc-section: piano
 autoscroll: true
 
