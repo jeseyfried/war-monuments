@@ -11,7 +11,7 @@ header-eyebrow:
 header-divider: ✦ ✦ ✦
 header-subtitle: AI Generated Composite Models Compared to Gender Nonconforming Outliers
 header-caption: WWI memorial at Port Sunlight. Photo by Rodhullandemu on <a href="https://commons.wikimedia.org/wiki/File:Port_Sunlight_War_Memorial_2020.jpg">Wikimedia Commons</a>
-header-position: 10px
+header-position: 30px
 toc-section: piano
 autoscroll: true
 
