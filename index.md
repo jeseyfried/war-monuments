@@ -23,20 +23,19 @@ tags:
 
 {% include nav/scrollspy-toc.html %}
 
-This website is my notepad.  
-{: .lead}
+# This website is my notepad.  
 
 I'm researching how 3D object creation, using generative AI, might bring new insights to the question of gender performance in the WWI monuments built in Germany and England in the 1920s.
 
-# Parsing Generative AI Output
+## Parsing Generative AI Output
 
 I research methods for developing guidelines for using emerging technologies. As of November 2026, generative AI provides so much information in response to queries that making effective use of inforamtion deluge has become a significant challenge. Scholars who build websites typically present them as refined products, but the website format can easily function as a notepad. This website demonstrates the utility of building private website to assist in the research process. Instead of leaving the generative AI output in the online application or downloading it as PDF, download the response in Markdown for instant tranferability to a website. [Xanthan](https://xanthan-web.github.io/) provides an easy and free platform to host the website. 
 
-# Imagining 3D as the New 2D
+## Imagining 3D as the New 2D
 
 In the 1930s, the use of 35mm slide carousels became widely adopted by university faculty in their teaching. After almost a century of incorporating images into lectures, we now have the opportunity to introduce 3D objects. With the decrease in price of 3D printers to the range of $200-$400, 3D printed objects are now easy to produce for teaching and research. Perhaps within the next decade, instructors will regularly bring a totebag full of 3D printed objects to each class meeting. 
 
-# Critical Fabrication
+## Critical Fabrication
 
 This website demonstrates how generative AI can bring new insights into the study of gender in WWI monuments. This semester, Dr. Melissa Bokovoy is teaching a History graduate seminar titled *Gender, War, and Memory.* The seminar explores the connections between memory studies, gender studies, and history. George Mosse, Daniel Sherman, and Jay Winter have analyzed the historical circumstances that led to the building of the many commemorative structures in the 1920s.[^msw] Gender norms played a major role in the design of the monuments, which overwhelmingly incorporated traditional symbols of masculinity.
 
@@ -44,25 +43,72 @@ This website demonstrates how generative AI can bring new insights into the stud
 
 I used generative AI, specifically Claude.ai, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element in the composite.
 
-# Gender Nonconforming Outliers of WWI Monuments
+## Gender Nonconforming Outliers of WWI Monuments
 
 By comparing them to a composite model, the radical characteristics of gender nonconforming WWI monuments become more visible and comprehensible. Generative AI played a role in this process too, as a webapp titled Meshy.ai transformed photos of the monuments into 3D printable files. 
 
-## Port Sunlight
+### Port Sunlight WWI Memorial
 
-This monument, located in Liverpool, features many sculpted figures on its central column and in scenes around its periphery. 
+This monument, located in Liverpool, features many sculpted figures on its central column and in scenes around its periphery. Women rarely appear on WWI memorials, and when they do, their bodies pose in supplication or reverence to the efforts of the men. 
 
-## Bar-le-Duc
+{% include images/juxtapose.html
+  image1="/images/port-sunlight-memorial.png"
+  image2="/images/port-sunlight-meshy.png"
+  caption="Meshy generated a 3D-printable model from this single photo."
+%}
 
-Although monuments in France lie outside the scope of this research project, the work done by Daniel Sherman on gender in WWI memorials made this statue in Bar-le-Duc an important contexual piece. This statue, which features an idealized female figure at its apex, incurred the wrath of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
+### Bar-le-Duc WWI Memorial
+
+{% include images/jumbotron.html
+  image-path="/images/bar-de-luc-actual.png"
+  height="50vh"
+  box-align="right"
+  title=""
+  text="Although French monuments lie outside the scope of this research project, the work done by Daniel Sherman on gender in WWI memorials made this statue in Bar-le-Duc an important contexual piece to include."
+  background-position="center left"
+%}
+
+This statue, which features an idealized female figure at its apex, incurred the wrath of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
 
 [^ds]:Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107, at 95-97.
 
-## Käthe Kollwitz's *Grieving Parents*
 
-[Käthe Kollwitz](https://www.kaethe-kollwitz.berlin/en/kaethe-kollwitz/biography/), already a prominent artist in Germany at the time of WWI, lost her son, Peter, in the early months of the war. At first, Kollwitz framed the loss of her son as a sacrifice for a noble cause, but as the years went on after WWI her interpretation of the loss changed. Kollwitz's diary entries show that as she became disillusioned with the war's purpose she realized that 'in order to mourn this real death, she had to accept the loss of hte cultural icons of the war.'[^rs] In the long process during the 1920s of envisioning her own memorial sculpture for WWI, Kollwitz eventually decided to refuse the traditional representation of the soldier's body. Instead, she sculpted two figures, representing herself and her husband. Peter's body was absent. 
+
+### Käthe Kollwitz
+
+[Käthe Kollwitz](https://www.kaethe-kollwitz.berlin/en/kaethe-kollwitz/biography/), already a prominent artist in Germany at the time of WWI, lost her son, Peter, in the early months of the war. At first, Kollwitz framed the loss of her son as a sacrifice for a noble cause, but as the years went on after WWI her interpretation of the loss changed. Kollwitz's diary entries show that as she became disillusioned with the war's purpose she realized that 'in order to mourn this real death, she had to accept the loss of the cultural icons of the war.'[^rs] 
 
 [^rs]:Regina Schulte, “Käthe Kollwitz’s Sacrifice,” *History Workshop Journal* 41 (1996): 193–221, at 216.
+ 
+
+{% include images/jumbotron.html
+  image-path="/images/kollwitz-actual.png"
+  height="50vh"
+  box-align="left"
+  title=""
+  text="In the long process during the 1920s of envisioning her own memorial sculpture for WWI, Kollwitz eventually decided to refuse the traditional representation of the soldier's body. Instead, in the work she finished in 1932, she sculpted two figures, representing herself and her husband. Peter's body was absent."
+  background-position="center right"
+%}
 
 
+In its refusal to represent the male body of the soldier, Kollwitz's sculpture defies the traditional gendered representation of WWI memorials. The composite images generated by Claude present a stark contrast, in both form and content, to *Grieving Parents*. The curves and wrinkles in *Grieving Parents* oppose the strict geometry seen in the composite models. 
 
+{% assign images =
+"/images/kollwitz-actual.png,
+/images/kollwitz-mother-meshy-prompt.png,
+images/kollowitz-father-meshy-prompt.png" | split: ','
+%}
+
+{% assign captions =
+"Photos of the sculpture are easy to find through Google Image Search|
+Adobe Express was used to remove the background of the four photos|
+Meshy failed to create a base for the father sculpture so one was added during print preparation|
+" | split: '|'
+%}
+
+{% include images/carousel.html
+  width="80%"
+  class="center"
+  images=images
+  captions=captions
+%}
