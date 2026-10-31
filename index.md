@@ -52,7 +52,7 @@ By comparing them to a composite model, the radical characteristics of gender no
 This monument, located in Liverpool, features many sculpted figures on its central column and in scenes around its periphery. Women rarely appear on WWI memorials, and when they do, their bodies pose in supplication or reverence to the efforts of the men. 
 
 {% include images/juxtapose.html
-  image1="/images/port-sunlight-memorial-2.png"
+  image1="/images/portsunlight-1.png"
   image2="/images/port-sunlight-meshy-2.png"
   caption="Meshy generated a 3D-printable model from this single photo."
 %}
@@ -60,7 +60,7 @@ This monument, located in Liverpool, features many sculpted figures on its centr
 ### Bar-le-Duc WWI Memorial
 
 {% include images/jumbotron.html
-  image-path="/images/bar-le-luc-actual.png"
+  image-path="/images/bar-le-duc-actual.png"
   height="50vh"
   box-align="right"
   title=""
