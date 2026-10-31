@@ -21,6 +21,7 @@ tags:
   - overall
 ---
 
+{% include nav/scrollspy-toc.html %}
 
 This website is my notepad.  
 {: .lead}
@@ -37,7 +38,9 @@ In the 1930s, the use of 35mm slide carousels became widely adopted by universit
 
 # Critical Fabrication
 
-This website demonstrates how generative AI can bring new insights into the study of gender in WWI monuments. This semester, Dr. Melissa Bokovoy is teaching a History graduate seminar titled *Gender, War, and Memory.* The seminar explores the connections between memory studies, gender studies, and history. George Mosse, Daniel Sherman, and Jay Winter have analyzed the historical circumstances that led to the building of the many commemorative structures in the 1920s. Gender norms played a major role in the design of the monuments, which overwhelmingly incorporated traditional symbols of masculinity.
+This website demonstrates how generative AI can bring new insights into the study of gender in WWI monuments. This semester, Dr. Melissa Bokovoy is teaching a History graduate seminar titled *Gender, War, and Memory.* The seminar explores the connections between memory studies, gender studies, and history. George Mosse, Daniel Sherman, and Jay Winter have analyzed the historical circumstances that led to the building of the many commemorative structures in the 1920s.[^msw] Gender norms played a major role in the design of the monuments, which overwhelmingly incorporated traditional symbols of masculinity.
+
+[^msw]:George L. Mosse, *Fallen Soldiers: Reshaping the Memory of the World Wars* (Oxford University Press, 1990);Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107; Jay Winter, *Sites of Memory, Sites of Mourning: The Great War in European Cultural History* (Cambridge University Press, 1995).
 
 I used generative AI, specifically Claude.ai, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element in the composite.
 
@@ -47,13 +50,19 @@ By comparing them to a composite model, the radical characteristics of gender no
 
 ## Port Sunlight
 
+This monument, located in Liverpool, features many sculpted figures on its central column and in scenes around its periphery. 
+
 ## Bar-le-Duc
+
+Although monuments in France lie outside the scope of this research project, the work done by Daniel Sherman on gender in WWI memorials made this statue in Bar-le-Duc an important contexual piece. This statue, which features an idealized female figure at its apex, incurred the wrath of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
+
+[^ds]:Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107, at 95-97.
 
 ## Käthe Kollwitz's *Grieving Parents*
 
+[Käthe Kollwitz](https://www.kaethe-kollwitz.berlin/en/kaethe-kollwitz/biography/), already a prominent artist in Germany at the time of WWI, lost her son, Peter, in the early months of the war. At first, Kollwitz framed the loss of her son as a sacrifice for a noble cause, but as the years went on after WWI her interpretation of the loss changed. Kollwitz's diary entries show that as she became disillusioned with the war's purpose she realized that 'in order to mourn this real death, she had to accept the loss of hte cultural icons of the war.'[^rs] In the long process during the 1920s of envisioning her own memorial sculpture for WWI, Kollwitz eventually decided to refuse the traditional representation of the soldier's body. Instead, she sculpted two figures, representing herself and her husband. Peter's body was absent. 
 
-
-
+[^rs]:Regina Schulte, “Käthe Kollwitz’s Sacrifice,” *History Workshop Journal* 41 (1996): 193–221, at 216.
 
 
 

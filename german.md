@@ -21,6 +21,8 @@ tags:
   - Germany
 ---
 
+{% include nav/scrollspy-toc.html %}
+
 # Bodies of the Fallen: Masculinity in German WWI Memorials of the 1920s and an Imaginary Monument Design
 
 Everything on this page was written by Claude Fable 5.1 in response to the following prompt:

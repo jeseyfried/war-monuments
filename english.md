@@ -21,6 +21,8 @@ tags:
   - England
 ---
 
+{% include nav/scrollspy-toc.html %}
+
 # Depicting the Soldier: A Composite 1920s English War Memorial
 
 Everything on this page was written by Claude Fable 5.1 in response to the following prompt:

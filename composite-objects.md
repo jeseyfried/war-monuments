@@ -20,6 +20,8 @@ placename:
 tags:
 ---
 
+{% include nav/scrollspy-toc.html %}
+
 ## Literature Review from ChatGPT
 
 *What follows is a prompt given to ChatGPT version GPT-6 Intelligent UI on October 11, 2026, and its response*
