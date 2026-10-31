@@ -397,17 +397,31 @@ color just for headers.
     padding: 2rem 1.5rem;
   }
 
+  /* On desktop the title sits over the image's left (unimportant) side,
+     leaving the right (important) side visible on its own. There's no
+     room for that on mobile, so anchor the title to the right instead,
+     putting it directly over the important side of the image. */
+  .page-header--hero .page-header-content {
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 85%;
+  }
+
   .page-header--section {
     height: 30vh;
   }
 
   .page-header--section .page-header-content {
     padding: 1.5rem 1.5rem;
-    margin-left: 1rem;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 70%;
   }
 
   .page-header--banner .page-header-content {
     padding: 0.75rem 1rem;
-    margin-left: 1rem;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 70%;
   }
 }
