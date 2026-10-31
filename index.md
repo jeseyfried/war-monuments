@@ -5,7 +5,7 @@ layout: scrollstory
 date: 2026-09-19
 thumbnail: images/port-sunlight-memorial.png
 summary: WWI monuments perform gender
-header-image: images/port-sunlight-memorial.png
+header-image: images/www-site-header.png
 header-title: WWI Monuments Perform Gender
 header-eyebrow: 
 header-divider: ✦ ✦ ✦
