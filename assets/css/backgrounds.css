@@ -16,10 +16,7 @@ Not here: the typography those boxes inherit on a scrollstory page
   /* Positioning */
   position: relative;
   display: block;
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  max-width: 100vw;
+  grid-column: full; /* full-bleed via the page's single .container grid, see base.css */
   overflow: hidden;
   
   /* Visual */
