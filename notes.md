@@ -1,7 +1,8 @@
 ---
-title: Bibliography
+title: Notes
 layout: base
 ---
+
 
 # Bibliography
 
