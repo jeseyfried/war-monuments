@@ -1,10 +1,27 @@
 ---
-title: Composite Objects
-layout: base
+title: Theorizing Composites
+author: Jonathan Seyfried
+layout: scrollstory
+date: 2026-09-19
+thumbnail: images/monument-grid.png
+summary: Literature review about composite objects
+header-image: images/monument-grid.png
+header-title: Theorizing Composites
+header-eyebrow: 
+header-divider: ✦ ✦ ✦
+header-subtitle: Using Generative AI as a Guide to an Unfamiliar Field of Research
+header-caption: 
+header-position: 0px
+toc-section: piano
+autoscroll: true
+
+geo: 
+placename: 
+tags:
 ---
 
-
 ## Literature Review from ChatGPT
+
 *What follows is a prompt given to ChatGPT version GPT-6 Intelligent UI on October 11, 2026, and its response*
 
 > I have a research question about composite objects. Specifically, I am making composites of thousands of WWI memorials and I want to understand what scholars have written about the meaning of this type of object. I want to become familiar with the scholarship that can provide context for my project. Please provide me an annotated bibliography on hyperobjects and the hyper-real. Please also include any other studies that you find to be closely relevant. For every entry, include a DOI or ISBN. At minimum there should be at least 20 scholarly works and no more than 60 total.

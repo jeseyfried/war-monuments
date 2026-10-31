@@ -7,7 +7,7 @@ thumbnail: images/england-header.png
 summary: English WWI memorials
 header-image: images/england-header.png
 header-title: English WWI War Monuments Perform Gender
-header-eyebrow: Gender, War, and Memory
+header-eyebrow: 
 header-divider: ✦ ✦ ✦
 header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
 header-caption: Photo by Donald Judge on <a href="https://commons.wikimedia.org/wiki/File:13.4.16_2_Bradford_06_(26144006820).jpg">Wikimedia Commons</a>
@@ -22,6 +22,10 @@ tags:
 ---
 
 # Depicting the Soldier: A Composite 1920s English War Memorial
+
+Everything on this page was written by Claude Fable 5.1 in response to the following prompt:
+
+> Please research WWI monuments made in the 1920s in England and how those monuments represented masculinity. Then from that research come up with a 3D model design that captures the most common elements of these monuments as they depicted male soldiers. Your goal is to create a 3D-printable STL file of an imaginary monument that demonstrates the way that male soldiers were depicted (embodiment, symbolism, etc.) in relation to how the WWI experience affected gender norms of the time. Along with the STL file, please provide me with a document that explains how specific features of the model represent trends visible in particular monuments in England. In this document please include Wikipedia links for the particular monuments or if no Wikipedia page exists include a link to another website about the monument. Here are some specifications for the STL file: Binary STL format (smaller file size than ASCII), Chordal tolerance/deviation of 0.1 mm [0.004 in], Angular tolerance/deviation of 1 deg,Minimum side length of 0.1 mm [0.004 in]
 
 ## What the model is
 

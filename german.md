@@ -7,7 +7,7 @@ thumbnail: images/hildesheimer-crop.jpg
 summary: German WWI memorials
 header-image: images/hildesheimer-crop.jpg
 header-title: German War Monuments Perform Gender
-header-eyebrow: Gender, War, and Memory
+header-eyebrow: 
 header-divider: ✦ ✦ ✦
 header-subtitle: Using Generative AI to Peform a Large Scale Analysis of War Monuments
 header-caption: Photo by Björn Bornhöft on <a href="https://commons.wikimedia.org/wiki/File:Kriegerdenkmal_am_Hildesheimer_Galgenberg_frontal.JPG">Wikimedia Commons</a>
