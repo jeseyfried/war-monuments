@@ -52,20 +52,20 @@ By comparing them to a composite model, the radical characteristics of gender no
 This monument, located in Liverpool, features many sculpted figures on its central column and in scenes around its periphery. Women rarely appear on WWI memorials, and when they do, their bodies pose in supplication or reverence to the efforts of the men. 
 
 {% include images/juxtapose.html
-  image1="/images/portsunlight-1.png"
+  image1="/images/portsunlight-2.png"
   image2="/images/port-sunlight-meshy-2.png"
   caption="Meshy generated a 3D-printable model from this single photo."
 %}
 
 ### Bar-le-Duc WWI Memorial
 
-{% include images/jumbotron.html
+{% include images/figure-wrap.html
   image-path="/images/bar-le-duc-actual.png"
-  height="50vh"
-  box-align="right"
-  title=""
+  caption="Google Street View photo of the WWI memorial in Bar-le-Duc."
+  alt-text="Google Street View photo of the WWI memorial in Bar-le-Duc."
+  image-position="right"
+  image-width="45%"
   text="Although French monuments lie outside the scope of this research project, the work done by Daniel Sherman on gender in WWI memorials made this statue in Bar-le-Duc an important contexual piece to include."
-  background-position="center left"
 %}
 
 This statue, which features an idealized female figure at its apex, incurred the wrath of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
