@@ -25,7 +25,7 @@ tags:
 
 # This website is my notepad  
 
-I'm researching how 3D object creation, using generative AI, might bring new insights to the question of gender performance in the WWI monuments built in Germany and England in the 1920s.
+This website is a creation of [Jonathan Seyfried](https://jonathanseyfried.net/), PhD Candidate in History at the University of New Mexico. I'm researching how 3D object creation, using generative AI, might bring new insights to the question of gender performance in the WWI monuments built in Germany and England in the years after World War I.
 
 ## Parsing Generative AI Output
 
@@ -41,7 +41,7 @@ This website demonstrates how generative AI can bring new insights into the stud
 
 [^msw]:George L. Mosse, *Fallen Soldiers: Reshaping the Memory of the World Wars* (Oxford University Press, 1990);Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107; Jay Winter, *Sites of Memory, Sites of Mourning: The Great War in European Cultural History* (Cambridge University Press, 1995).
 
-I used generative AI, specifically Claude.ai, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element in the composite.
+I used generative AI, specifically Claude.ai, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element/motif for both the [German composite model](https://jeseyfried.github.io/war-monuments/german#recurring-motifs-in-1920s-german-memorials) and the [English composite model](https://jeseyfried.github.io/war-monuments/english#feature-by-feature).
 
 {% assign images =
 "/images/england-sentinel_memorial_preview.png,
