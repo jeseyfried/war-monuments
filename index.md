@@ -25,11 +25,13 @@ tags:
 
 # This website is my notepad  
 
-This website is a creation of [Jonathan Seyfried](https://jonathanseyfried.net/), PhD Candidate in History at the University of New Mexico. I'm researching how 3D object creation, using generative AI, might bring new insights to the question of gender performance in the WWI monuments built in Germany and England in the years after World War I.
+This website was created by [Jonathan Seyfried](https://jonathanseyfried.net/), PhD Candidate in History at the University of New Mexico. I'm researching how 3D object creation, using generative AI, might bring new insights to the question of gender performance in the WWI monuments built in Germany and England in the years after World War I.
 
 ## Parsing Generative AI Output
 
-I research methods for developing guidelines for using emerging technologies. As of November 2026, generative AI provides so much information in response to queries that making effective use of inforamtion deluge has become a significant challenge. Scholars who build websites typically present them as refined products, but the website format can easily function as a notepad. This website demonstrates the utility of building private website to assist in the research process. Instead of leaving the generative AI output in the online application or downloading it as PDF, download the response in Markdown for instant tranferability to a website. [Xanthan](https://xanthan-web.github.io/) provides an easy and free platform to host the website. 
+I research methods for developing guidelines for using emerging technologies. As of November 2026, generative AI provides so much information in response to queries that making effective use of inforamtion deluge has become a significant challenge. Scholars who build websites typically present them as refined products, but the website format can easily function as a notepad. This website demonstrates the utility of building a private website to assist in the research process. Instead of leaving the generative AI output in an online application or downloading it as a PDF, I downloaded the response in Markdown for instant tranferability to a website. [Xanthan](https://xanthan-web.github.io/) provides an easy and free platform to host the website. 
+
+This page contains my own writing and the other pages on the site hold the output from generative AI.
 
 ## Imagining 3D as the New 2D
 
@@ -41,7 +43,7 @@ This website demonstrates how generative AI can bring new insights into the stud
 
 [^msw]:George L. Mosse, *Fallen Soldiers: Reshaping the Memory of the World Wars* (Oxford University Press, 1990);Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107; Jay Winter, *Sites of Memory, Sites of Mourning: The Great War in European Cultural History* (Cambridge University Press, 1995).
 
-I used generative AI, specifically Claude.ai, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element/motif for both the [German composite model](https://jeseyfried.github.io/war-monuments/german#recurring-motifs-in-1920s-german-memorials) and the [English composite model](https://jeseyfried.github.io/war-monuments/english#feature-by-feature).
+I used generative AI, specifically Claude, to analyze images of these monuments and produce a composite image of WWI memorials in Germany and England. The prompts I gave to Claude Fable 5.1 appear at the top of the [Germany](/war-monuments/german) and [England](war-monuments/english) sections of this website. For each of these two countries, I asked Claude to provide a composite 3D model of the gendered aspects of the thousands of WWI memorials. Exactly how many images Claude consulted to form the composite image is not verifiable due to restrictions Anthropic places on visibility of the model's operation (known as the 'black box' problem). However, I required justification from Claude, based on actual monuments, for the choices it made for each element/motif for both the [German composite model](https://jeseyfried.github.io/war-monuments/german#recurring-motifs-in-1920s-german-memorials) and the [English composite model](https://jeseyfried.github.io/war-monuments/english#feature-by-feature).
 
 {% assign images =
 "/images/england-sentinel_memorial_preview.png,
@@ -64,7 +66,9 @@ Image of 3D model generated by Claude.ai as a composite of German WWI memorials|
 
 ## Gender Nonconforming Outliers of WWI Monuments
 
-In the aftermath of WWI, people in England and Germany built thousands of WWI memorials, commemorating the soldiers who died from towns across each country. Out of a desire to demonstrate honor and respect for the fallen, those who designed the memorials wanted to conform to national trends. In this way, the statues and memorials display a high level of uniformity, reflecting a great deal of tradition and asceticism. The memorials represented war, as an activity coded as quintessentially masculine, through idealized bodies of male soldiers, symbols of Christianity, and pastoral ornamentation. But there were exceptions.
+In the aftermath of WWI, people in England and Germany built thousands of WWI memorials, commemorating the soldiers who died from towns across each country. Out of a desire to demonstrate honor and respect for the fallen, those who designed the memorials wanted to conform to national trends. Jonathan Trigg has examined the mechanisms by which conformity and uniformity pervaded the design of the monuments in English memorials, especially in the information  distributed by the government's Bureau of Reference and the Victoria & Albert Museum.[^trigg] In this way, the statues and memorials display a high level of uniformity, reflecting a great deal of tradition and asceticism. The memorials represented war, as an activity coded as quintessentially masculine, through idealized bodies of male soldiers, symbols of Christianity, and pastoral ornamentation. But there were exceptions.
+
+[^trigg]:Jonathan Trigg, “Memory and Memorial: A Study of Official and Military Commemoration of the Dead, and Family and Community Memory in Essex and East London,” *Journal of Conflict Archaeology* 3, no. 1 (2007): 295–315, at 297.
 
 {% include scrollybox/bg.html
   height="90vh"
@@ -99,7 +103,7 @@ This monument, located in Liverpool, features many sculpted figures on its centr
   text="Although French monuments lie outside the scope of this research project, the work done by Daniel Sherman on gender in WWI memorials made this statue in Bar-le-Duc an important contexual piece to include."
 %}
 
-This statue, which features an idealized female figure at its apex, incurred the wrath of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
+This statue, which features an idealized female figure at its apex, raised the ire of many of the prominent townspeople. They objected to the placement of a female form in a dominant position over the male soldiers.[^ds]
 
 [^ds]:Daniel J. Sherman, “Monuments, Mourning and Masculinity in France after World War I,” *Gender & History* 8, no. 1 (1996): 82–107, at 95-97.
 
