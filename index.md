@@ -29,7 +29,7 @@ This website was created by [Jonathan Seyfried](https://jonathanseyfried.net/), 
 
 ## Parsing Generative AI Output
 
-I research methods for developing guidelines for using emerging technologies. As of November 2026, generative AI provides so much information in response to queries that making effective use of inforamtion deluge has become a significant challenge. Scholars who build websites typically present them as refined products, but the website format can easily function as a notepad. This website demonstrates the utility of building a private website to assist in the research process. Instead of leaving the generative AI output in an online application or downloading it as a PDF, I downloaded the response in Markdown for instant tranferability to a website. [Xanthan](https://xanthan-web.github.io/) provides an easy and free platform to host the website. 
+I research methods for developing guidelines for using emerging technologies. As of November 2026, generative AI provides so much information in response to queries that making effective use of information deluge has become a significant challenge. Scholars who build websites typically present them as refined products, but the website format can easily function as a notepad. This website demonstrates the utility of building a private website to assist in the research process. Instead of leaving the generative AI output in an online application or downloading it as a PDF, I downloaded the response in Markdown for instant tranferability to a website. [Xanthan](https://xanthan-web.github.io/) provides an easy and free platform to host the website. 
 
 This page contains my own writing and the other pages on the site hold the output from generative AI.
 
